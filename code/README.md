@@ -5,4 +5,4 @@ The UD generation goes through the steps of fitting the crawl, making the kde us
 original code used in paper ran the crawl in parallel using custom functions available in "helper", scripts using these functions can be made available upon request. 
 
 
-After unzipping "kde_data_all_old" you have to coerce the file extension to ".RData"
+After unzipping "kde_data_all_old" you have to manually coerce the file extension to ".RData"
